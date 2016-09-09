@@ -1,1 +1,1 @@
-puts "new branch"
+puts "master"
